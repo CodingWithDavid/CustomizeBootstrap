@@ -1,8 +1,7 @@
 # This is the repository of the new CodingWithDavid Blog
 
-This is a simple trick to customize your Blazor applications that use Bootstrap so they dont loook so much like other Bootstrap application
+This is a simple trick to customize your Blazor applications that use Bootstrap so they do not look so much like other Bootstrap applications
 
-*** PLEASE NOTE THIS REQUIRES .NET 6 and Visual Studio 2022 ***
 
 by [David Gallivan](http://twitter.com/CodingwithDavid)
 
